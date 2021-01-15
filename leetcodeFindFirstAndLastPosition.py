@@ -1,3 +1,5 @@
+##Leetcode, find first and last position of a target in a array
+
 class Solution(object):
     def searchRange(self, nums, target):
         """
